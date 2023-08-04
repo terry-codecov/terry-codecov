@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @terry-codecov
 - 👀 I’m interested in development teams
-- 🌱 I’m currently learning <new JS thing> and trying to improve my soft skills
-- 💞️ I’m looking to collaborate on everything!
-- 📫 How to reach me Slack
